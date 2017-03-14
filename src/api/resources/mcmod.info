@@ -1,0 +1,13 @@
+[{
+	"modid": "tesla",
+	"name": "TESLA",
+	"description": "A modern power API",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "",
+	"updateUrl": "",
+	"authorList": ["Darkhax"],
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}]

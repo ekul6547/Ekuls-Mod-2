@@ -1,0 +1,50 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "cross"
+    },
+    "variants": {
+        "age": {
+            "0": {
+                "textures": {
+                    "cross": "ekul:blocks/whix/0"
+                }
+            },
+            "1": {
+                "textures": {
+                    "cross": "ekul:blocks/whix/1"
+                }
+            },
+            "2": {
+                "textures": {
+                    "cross": "ekul:blocks/whix/2"
+                }
+            },
+            "3": {
+                "textures": {
+                    "cross": "ekul:blocks/whix/3"
+                }
+            },
+            "4": {
+                "textures": {
+                    "cross": "ekul:blocks/whix/4"
+                }
+            },
+            "5": {
+                "textures": {
+                    "cross": "ekul:blocks/whix/5"
+                }
+            },
+            "6": {
+                "textures": {
+                    "cross": "ekul:blocks/whix/6"
+                }
+            },
+            "7": {
+                "textures": {
+                    "cross": "ekul:blocks/whix/7"
+                }
+            }
+        }
+    }
+}

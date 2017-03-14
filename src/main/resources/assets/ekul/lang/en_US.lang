@@ -1,0 +1,61 @@
+item.itemEkulium.name=Ekulium
+item.itemRunicGem.name=Runic Gem
+item.itemDiamondStick.name=Diamond Stick
+item.itemRunicStick.name=Runic Stick
+
+item.itemTingot.name=Tingot
+item.itemTingotDust.name=Pulised Tingot
+item.itemTingotNugget.name=Tingot Nuet
+
+item.itemTiot.name=Tiot
+item.itemTiotDust.name=Pued Tiot
+item.itemTiotNugget.name=Tiot Nt
+
+item.itemMonoWhix.name=Mono-Whixlatium Proto-Quantanium
+item.itemWhixQuartz.name=Whixalated Quartz
+item.itemWhixSeed.name=Whixalated Seeds
+
+item.toolEkuliumPick.name=Ekulium Pickaxe
+item.toolEkuliumSword.name=Ekulium Sword
+item.toolEkuliumAxe.name=Ekulium Axe
+item.toolEkuliumShovel.name=Ekulium Shovel
+item.toolEkuliumHoe.name=Ekulium Hoe
+item.toolRunicPick.name=Runic Pickaxe
+item.toolRunicSword.name=Runic Sword
+item.toolRunicAxe.name=Runic Axe
+item.toolRunicShovel.name=Runic Shovel
+item.toolRunicHoe.name=Runic Hoe
+
+item.toolDelStaff.name=Deletion Staff
+item.toolDelStaffCore.name=Deletion Staff Core
+
+item.armorRunicHelm.name=Runic Helmet
+item.armorRunicChest.name=Runic Chestplate
+item.armorRunicLegs.name=Runic Leggings
+item.armorRunicBoots.name=Runic Boots
+
+tile.blockEkuliumOre.name=Ekulium Ore
+tile.blockNetherEkuliumOre.name=Nether Ekulium Ore
+tile.blockEkuliumBlock.name=Block of Ekulium
+tile.blockRunicOre.name=Runic Gem Ore
+tile.blockNetherRunicOre.name=Nether Runic Gem Ore
+tile.blockRunicBlock.name=Block of Runic Gem
+tile.blockMix.name=Mixed Block
+
+itemGroup.tabEkulMod=Ekul's Mod 2
+
+entity.Whixler.name=Whixler
+entity.UsefulZombie.name=Useful Zombie
+
+death.attack.damageSourceUseful=%s was made useful.
+death.attack.damageSourceUseful.player=%1$s was made useful by %2$s.
+death.attack.deletion=%s was deleted.
+death.attack.deletion.player=%1$s was deleted  by %2$s.
+
+//Tinkers Stuff
+material.ekulium.name=Ekulium
+material.runic.name=Runic
+fluid.EkuliumF=Liquid Ekulium
+fluid.RunicF=Moltern Runic
+fluid.BedrockF=Moltern Bedrock
+fluid.MixedF=Mixed Liquids
